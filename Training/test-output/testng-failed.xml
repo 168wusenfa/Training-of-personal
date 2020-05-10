@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
+  <test thread-count="5" name="Default test(failed)">
+    <classes>
+      <class name="edu.com.wusenfa.TestCase">
+        <methods>
+          <include name="test01"/>
+          <include name="test23"/>
+          <include name="test06"/>
+          <include name="test08"/>
+          <include name="test07"/>
+          <include name="test02"/>
+          <include name="test24"/>
+          <include name="test09"/>
+          <include name="test04"/>
+          <include name="test03"/>
+          <include name="test25"/>
+          <include name="test20"/>
+          <include name="test05"/>
+          <include name="test22"/>
+          <include name="test21"/>
+          <include name="test12"/>
+          <include name="test17"/>
+          <include name="test19"/>
+          <include name="test18"/>
+          <include name="test13"/>
+          <include name="test15"/>
+          <include name="test14"/>
+          <include name="test16"/>
+          <include name="test11"/>
+          <include name="test10"/>
+        </methods>
+      </class> <!-- edu.com.wusenfa.TestCase -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->
